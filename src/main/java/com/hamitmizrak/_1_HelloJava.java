@@ -11,5 +11,4 @@ public class _1_HelloJava {
         // sout
         System.out.println("Merhabalar Güzel İnsanlar, Nasılsınız.");
     } //end psvm
-
 } // end class
