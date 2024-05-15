@@ -10,14 +10,15 @@ public class _3_PrimitiveTypes {
         // Java neden 100% OOP değildir ? cevap: primitive türden dolayı
 
         // Sayılar için (4)
+        // byte<short<int<long
         byte b1=127;  // 1 byte=8 bit -128<=SAYI<=+127
         short s1=128; // 16 bit
-        int i1=12812155;
+        int i1=12812155; // (*) Sıklıkla kullanıyoruz.
         long l1=125212545555L;
 
         // Virgüllü Sayılar (Floating Point) (2)
         float f2=14.53f;
-        double d2=14525.5445;
+        double d2=14525.5445; // (*) Sıklıkla kullanıyoruz
 
         // boolean(1)
         boolean b3=true; //false
