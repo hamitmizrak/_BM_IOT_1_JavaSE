@@ -25,5 +25,12 @@ public class _5_Operators {
         // %
         int kalan=(number1%number2);
         System.out.println("KALAN: "+kalan);
+
+        // Ödev: Yukarıdaki öreneğe benzer olarak
+        /*
+        number1=18
+        number2=6
+        bu sayılarda (+ - * / % ) işlemleri consolda yazdıralım ?
+        * */
     }
 }
