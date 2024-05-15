@@ -16,12 +16,11 @@ public class _2_Variable {
 
         // Değişken adlarında yazabileceğim kurallar
         String _variableName = "22";
-        System.out.println(_variableName);
-
         String $variableName = "33";
-        System.out.println($variableName);
-
         String variableName89 = "44";
+
+        System.out.println(_variableName);
+        System.out.println($variableName);
         System.out.println(variableName89);
 
         // Değişken adlarında yazamazsınız kuralla
