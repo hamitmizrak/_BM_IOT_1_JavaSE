@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 // Yorumlama (Single Comment)
 /*
-Çoklu satırlar
+Çoklu satırlar"
 */
 public class _1_HelloJava {
 
