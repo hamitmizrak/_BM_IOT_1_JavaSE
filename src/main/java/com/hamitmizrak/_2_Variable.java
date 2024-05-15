@@ -5,7 +5,7 @@ public class _2_Variable {
     // psvm => TAB
     public static void main(String[] args) {
         System.out.println("Variable");
-        // Shortcut Beautify : Ctrl+Alt+l
+        // Shortcut Beautify : Ctrl+Alt+L
 
         // Değişken yazarken kullanacağım kurallar
         // camelCase kuralına göre yazıyoruz.
