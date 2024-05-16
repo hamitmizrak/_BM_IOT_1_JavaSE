@@ -12,4 +12,12 @@ public class _6_3_Examples {
         Çarpma: 23*3
         Bölme: 23/3
     */
+
+    public static void main(String[] args) {
+        int number1=23,number2=3;
+        System.out.println("Toplama: "+ (number1+number2));
+        System.out.println("Çıkarma: "+ (number1-number2));
+        System.out.println("Çarpma: "+ (number1*number2));
+        System.out.println("Bölme: "+ (number1/number2));
+    }
 }
