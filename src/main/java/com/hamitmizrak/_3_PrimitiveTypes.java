@@ -21,6 +21,7 @@ public class _3_PrimitiveTypes {
         long l1=125212545555L; // 1234L  1234l
 
         // Virgüllü Sayılar (Floating Point) (2)
+        // float<double
         float f2=14.53f; // 14.53f  14.53F
         System.out.println(f2);
         double d2=14525.5445; // (*) Sıklıkla kullanıyoruz
