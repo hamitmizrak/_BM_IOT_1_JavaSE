@@ -1,6 +1,6 @@
 package com.hamitmizrak;
 
-public class _5_Operators {
+public class _5_1_Operators {
 
     public static void main(String[] args) {
         // Operators (+,-,*,/,%)

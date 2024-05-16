@@ -12,6 +12,6 @@ public class _6_2_Examples {
         celcius=0;
         fahranhat=celcius*9/5+32;
         System.out.println(celcius+" derece "+fahranhat+" Fahranhayttır.");
-    }
 
+    }
 }
