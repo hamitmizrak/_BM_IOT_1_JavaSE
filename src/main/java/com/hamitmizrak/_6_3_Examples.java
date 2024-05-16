@@ -14,7 +14,8 @@ public class _6_3_Examples {
     */
 
     public static void main(String[] args) {
-        int number1=23,number2=3;
+        double number1=23;
+        double number2=3;
         System.out.println("Toplama: "+ (number1+number2));
         System.out.println("Çıkarma: "+ (number1-number2));
         System.out.println("Çarpma: "+ (number1*number2));
