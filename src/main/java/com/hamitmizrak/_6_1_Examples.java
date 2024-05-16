@@ -1,6 +1,6 @@
 package com.hamitmizrak;
 
-public class _6_Examples {
+public class _6_1_Examples {
     /*
     1.dereceden 2 bilinmeyenli denklem
     z=4x+5y
@@ -12,10 +12,8 @@ public class _6_Examples {
 
     // psvm
     public static void main(String[] args) {
-        int x, y, z;
-        x=3;
-        y=6;
-        z=4*x+5*y;
+        int x=3, y=6;
+        int z=(4*x+5*y);
         System.out.println("Cevap: "+z);
     }
 }
