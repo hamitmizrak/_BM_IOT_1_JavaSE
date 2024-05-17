@@ -1,0 +1,45 @@
+Udemy JAVA
+----------------------
+Saat: 28 Saat
+Eclipse konularına bakılmayacak
+Bonus konularına bakılmayacak
+
+
+Hafta Sonuna Kadar
+-----------------------------------------------------------------------
+Yol Haritamız
+Giriş
+Java NE Nedir ?
+Java Giriş 
+Javada DataTypes
+Java Temel İşlemler-1(Cast,Local,Global)
+Math Class/instanceOf
+Java Temel İşlemler-3(Boxing-Unboxing-Scanner)
+
+
+Pazartesi İtibaren (Yüzyüze Eğitim-Pazar Gününe Kadar)
+-----------------------------------------------------------------------
+Java Temel İşlemler-4(String)
+String UpLevel
+Random
+Argüman ile Parametre Arasındaki Farklar
+Karar Mekanizması 
+Döngüler
+
+
+NOT:Geriye kalan Konulardan hafta 3 farklı konu olarak çalışabilirsiniz.
+-----------------------------------------------------------------------
+Java Temel İşlemler-5(Diziler)
+Java Temel İşlemler-6(Date)
+Try catch
+Method
+Debug
+Generics
+Tekrar
+OOP Giriş 
+Inheritance
+PolyMorphism
+Abraction
+Collection
+Örnekler
+
