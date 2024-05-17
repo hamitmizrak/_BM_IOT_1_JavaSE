@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class _7_1_Scanner {
 
     public static void main(String[] args) {
+
         // Kullanıcıdan Console üzerinden veri almak istersek
         Scanner klavye=new Scanner(System.in);
 

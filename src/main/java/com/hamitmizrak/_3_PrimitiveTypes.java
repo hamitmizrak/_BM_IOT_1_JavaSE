@@ -5,6 +5,10 @@ public class _3_PrimitiveTypes {
     public static void main(String[] args) {
         System.out.println("Primitive Types");
         // Data Structure
+        // Primitive type:
+        // Stack memory
+        // null değer alamazzzzz.
+        // Daha az yer kaplar.
 
         // 8 tane primitive type vardır.
         // Java neden 100% OOP değildir ? cevap: primitive türden dolayı
