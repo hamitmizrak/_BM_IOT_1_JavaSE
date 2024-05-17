@@ -23,6 +23,5 @@ public class _8_1_Math {
         System.out.println("Sayıyı Aşağı yuvarlama :"+ Math.floor(4.9));
         System.out.println("Sayıyı Yukarı yuvarlama :"+ Math.ceil(6.1));
 
-
     }
 }
